@@ -2,7 +2,8 @@
 This library contains functions I made and used for my math and physics classes
 
 ## Requirements:
-Python 3
+- Python 3
+- Using an IDE like spyder can make using the library easier since you don't need a main function
 
 ## Functions:
 
