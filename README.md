@@ -1,6 +1,9 @@
 # What is this?
 This library contains functions I made and used for my math and physics classes
 
+## Requirements:
+Python 3
+
 ## Functions:
 
 ### ⭐fact
